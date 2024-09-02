@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW1", "S3_HW1\S3_HW1.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW2", "S3_HW2\S3_HW2.csproj", "{43CE367E-F688-4D04-875E-45EB1C869D20}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW3", "S3_HW3\S3_HW3.csproj", "{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{43CE367E-F688-4D04-875E-45EB1C869D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CE367E-F688-4D04-875E-45EB1C869D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CE367E-F688-4D04-875E-45EB1C869D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
