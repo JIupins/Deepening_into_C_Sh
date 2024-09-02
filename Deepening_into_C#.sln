@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2_HW7", "S2_HW7\S2_HW7.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2_HW8", "S2_HW8\S2_HW8.csproj", "{6B1A985E-98A6-4F28-ADA2-EE4CFF6AE81E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2_HW9", "S2_HW9\S2_HW9.csproj", "{DADA9FD6-C575-4193-9A18-6BD2727465B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S2_HW9", "S2_HW9\S2_HW9.csproj", "{DADA9FD6-C575-4193-9A18-6BD2727465B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW1", "..\..\..\Desktop\Set\S3_HW1\S3_HW1.csproj", "{D4CABC31-2E14-44B8-9BD3-05EA886D9D7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DADA9FD6-C575-4193-9A18-6BD2727465B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DADA9FD6-C575-4193-9A18-6BD2727465B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DADA9FD6-C575-4193-9A18-6BD2727465B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CABC31-2E14-44B8-9BD3-05EA886D9D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CABC31-2E14-44B8-9BD3-05EA886D9D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CABC31-2E14-44B8-9BD3-05EA886D9D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CABC31-2E14-44B8-9BD3-05EA886D9D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
