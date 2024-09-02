@@ -31,6 +31,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW2", "S3_HW2\S3_HW2.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW3", "S3_HW3\S3_HW3.csproj", "{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW4", "S3_HW4\S3_HW4.csproj", "{C74B28CD-9918-44F4-8B67-5B0A730514A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3_HW5", "S3_HW5\S3_HW5.csproj", "{115CDE8E-7011-416D-90E7-439405CE2104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E8AAFD-EAC1-47DE-A6C0-45D08D6B30B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74B28CD-9918-44F4-8B67-5B0A730514A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74B28CD-9918-44F4-8B67-5B0A730514A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74B28CD-9918-44F4-8B67-5B0A730514A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74B28CD-9918-44F4-8B67-5B0A730514A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115CDE8E-7011-416D-90E7-439405CE2104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115CDE8E-7011-416D-90E7-439405CE2104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115CDE8E-7011-416D-90E7-439405CE2104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115CDE8E-7011-416D-90E7-439405CE2104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
